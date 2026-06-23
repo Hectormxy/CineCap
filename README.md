@@ -192,7 +192,7 @@ print("=" * 50)
 
 ---
 
-## 📊 Inference on OmniDCBench
+## 📊 Inference on CineCapBench
 
 We provide a multi-GPU batch inference pipeline to evaluate CineCap on the [CineCap-Bench](https://huggingface.co/datasets/hector-mao/CineCap-Bench) benchmark.
 
