@@ -5,7 +5,7 @@
 <!-- [![Paper](https://img.shields.io/badge/arXiv-2602.08711-b31b1b)](https://arxiv.org/pdf/2602.08711) -->
 [![Model](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-blue)](https://huggingface.co/hector-mao/CineCap-GRPO-8B)
 <!-- [![Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-green)](https://huggingface.co/datasets/yaolily/Timechat-OmniCaptioner-40K) -->
-[![Benchmark](https://huggingface.co/datasets/hector-mao/CineCap-Bench)
+[![Benchmark](https://img.shields.io/badge/🤗%20Hugging%20Face-Benchmark-yellow)](https://huggingface.co/datasets/hector-mao/CineCap-Bench)
 
 </div>
 
