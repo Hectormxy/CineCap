@@ -2,9 +2,8 @@
 
 <div align="center">
 
-<!-- [![Paper](https://img.shields.io/badge/arXiv-2602.08711-b31b1b)](https://arxiv.org/pdf/2602.08711) -->
+[![Paper](https://img.shields.io/badge/arXiv-2606.24636-b31b1b)](https://arxiv.org/abs/2606.24636)
 [![Model](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-blue)](https://huggingface.co/hector-mao/CineCap-GRPO-8B)
-<!-- [![Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-green)](https://huggingface.co/datasets/yaolily/Timechat-OmniCaptioner-40K) -->
 [![Benchmark](https://img.shields.io/badge/🤗%20Hugging%20Face-Benchmark-yellow)](https://huggingface.co/datasets/hector-mao/CineCap-Bench)
 
 </div>
@@ -230,16 +229,16 @@ Training can be launched using the scripts provided in `Train/script/*.sh`.
 
 ## 📖 Citation
 
-<!-- ```bibtex
-@misc{yao2026timechatcaptioner,
-      title={TimeChat-Captioner: Scripting Multi-Scene Videos with Time-Aware and Structural Audio-Visual Captions}, 
-      author={Linli Yao and Yuancheng Wei and Yaojie Zhang and Lei Li and Xinlong Chen and Feifan Song and Ziyue Wang and Kun Ouyang and Yuanxin Liu and Lingpeng Kong and Qi Liu and Pengfei Wan and Kun Gai and Yuanxing Zhang and Xu Sun},
+```bibtex
+@misc{mao2026cinecapstructuredreasoningspatiotemporal,
+      title={CineCap: Structured Reasoning with Spatio-Temporal Anchors for Cinematographic Video Captioning}, 
+      author={Xinyu Mao and Yuhui Zeng and Xiaokun Liu and Wenyu Qin and Meng Wang and Xin Tao and Pengfei Wan and Xiaohan Xing and Max Meng},
       year={2026},
-      eprint={2602.08711},
+      eprint={2606.24636},
       archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2602.08711}
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2606.24636}, 
 }
-``` -->
+```
 
 
